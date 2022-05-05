@@ -12,7 +12,7 @@ const OPENSEA_LINK = 'https://testnets.opensea.io/collection/rinkeby-squirrels';
 const MEDIUM_LINK = 'https://medium.com/scrappy-squirrels';
 const contractAddress = "0x292CCBF0198991939e1f8f0FD2b4381cb9B40De4";
 const abi = contract.abi;
-0x292CCBF0198991939e1f8f0FD2b4381cb9B40De4
+// 0x292CCBF0198991939e1f8f0FD2b4381cb9B40De4
 // 0x7aDBc3497BE70a903c5b17BEf184782dD0A7eFAa
 const App = () => {
 
